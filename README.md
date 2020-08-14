@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ... NIDS(Suricata, EFK)
+- 📫 How to reach me: ... zl15@foxmail.com
