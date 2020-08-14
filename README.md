@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ... NIDS(Suricata, EFK)
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... something you may be interested in ... 
-
 ### FYI ~ 
 
 <details>
