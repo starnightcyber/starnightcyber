@@ -3,7 +3,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starnightcyber&theme=vue&count_private=true&show_icons=true&layout=compact)
 
 ### Hi there 👋
-- 🔭 I’m currently working on ... Baseline, NIDS and etc.
+
+![Visitor Count](https://profile-counter.glitch.me/starnightcyber/count.svg)
+
+- 🔭 I’m currently working on ... Baseline, NIDS, Honeypot etc.
 
 #### Quick Navigation
 
